@@ -10,7 +10,7 @@
 			},
 			"platforms" : [
 							{
-				"name" : "_8BitMixtape",
+				"name" : "8BitMixtape",
 				"architecture" : "avr",
 				"version" : "0.0.1",
 				"category" : "contributed",
